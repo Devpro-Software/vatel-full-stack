@@ -2,6 +2,12 @@
 
 A small demo app for the **Vatel** platform: manage voice agents, place live calls, browse history, listen to recordings, and read transcripts.
 
+## Preview
+
+![Agents Acme Inc](./public/agents-acme-inc.jpeg)
+
+![Agents Acme Inc demo](./public/agents-acme-inc-demo.jpeg)
+
 ---
 
 ## Setup
